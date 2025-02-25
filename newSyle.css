@@ -176,6 +176,7 @@ ul {
 
     img {
         max-width: 300px;
+        height: auto;
     }
 
     .header {
@@ -276,7 +277,7 @@ ul {
         transition: all 0.5s ease;
     }
     .image-content-left img, .image-content-right img {
-        width: 100px;
+        width: 250px;
         height: auto;
         border-radius: 5px;
         box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.5);
@@ -378,7 +379,7 @@ ul {
     }
 
     .image-content-left img, .image-content-right img {
-        width: 150px;
+        width: 300px;
         height: auto;
         border-radius: 5px;
         box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.5);
