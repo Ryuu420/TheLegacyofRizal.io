@@ -173,6 +173,11 @@ ul {
 
 
 @media (min-width: 375px) and (max-width: 720px) {
+
+    img {
+        max-width: 300px;
+    }
+
     .header {
         background-color: black;
         width: 100%;
